@@ -1,0 +1,5 @@
+2020-02-26 15:10:43,209 INFO  OneTimeSetup
+2020-02-26 15:10:43,428 INFO  InitializeTest
+2020-02-26 15:10:43,428 INFO  InitializeTest
+2020-02-26 15:10:54,398 INFO  LounchApplication
+2020-02-26 15:10:54,398 INFO  LounchApplication
